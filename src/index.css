@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+.sora-font {
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+.button{
+    background-color: white !important;
+    border: 1px solid rgb(226, 200, 200) !important;
+    box-shadow: 1px !important;
+}
+/* body{
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+} */

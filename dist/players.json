@@ -1,0 +1,138 @@
+[
+    {
+      "id":1,
+      "image": "https://i.ibb.co.com/x68rQsG/steve-smith-cricket-star-player-plqsoal1luugiyt3.jpg",
+      "name": "Steve Smith",
+      "country": "Australia",
+      "title": "Batsman",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.8,
+      "price": 2500000
+    },
+    {
+      "id":2,
+      "image": "https://i.ibb.co.com/XVGgp9T/p5pb25bg-david-warner-26th-century-afp-625x300-14-December-23.webp",
+      "name": "David Warner",
+      "country": "Australia",
+      "title": "Batsman",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.7,
+      "price": 2300000
+    },
+    {
+      "id":3,
+      "image": "https://i.ibb.co.com/0BYg39K/images.jpg",
+      "name": "Aeron Finch",
+      "country": "Australia",
+      "title": "Batsman",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.9,
+      "price": 2000000
+    },
+    {
+      "id":4,
+      "image": "https://i.ibb.co.com/4ZkrjRF/00ce233fa6777d381f02863a071a1f6c.jpg",
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "title": "All-Rounder",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.6,
+      "price": 2500000
+    },
+    {
+      "id":5,
+      "image": "https://i.ibb.co.com/DMV5YVK/skysports-mitchell-starc-south-africa-vs-australia-6362250.jpg",
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "title": "Bowler",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.8,
+      "price": 2400000
+    },
+    {
+      "id":6,
+      "image": "https://i.ibb.co.com/CVKZkK8/wp12630521.jpg",
+      "name": "Usman Khawaja",
+      "country": "Australia",
+      "title": "Batsman",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.5,
+      "price": 1800000
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/By6XKDj/388723.webp",
+      "name": "Marnus Labuschagne",
+      "country": "Australia",
+      "title": "Batsman",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.7,
+      "price": 2300000
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/X51z239/images-1.jpg",
+      "name": "Josh Hazlewood",
+      "country": "Australia",
+      "title": "Bowler",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.5,
+      "price": 2100000
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/N1x1Y0h/45174-list.jpg",
+      "name": "Alex Carey",
+      "country": "Australia",
+      "title": "Wicketkeeper",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.4,
+      "price": 2000000
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co.com/YRN69cZ/377032.webp",
+      "name": "Nathan Lyon",
+      "country": "Australia",
+      "title": "Bowler",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.8,
+      "price": 2500000
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co.com/nj9Mtp6/images-2.jpg",
+      "name": "Shane warn",
+      "country": "Australia",
+      "title": "Bowler",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.8,
+      "price": 2800000
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co.com/b5bDGSS/images-3.jpg",
+      "name": "Betty Wilson",
+      "country": "Australia",
+      "title": "Bowler",
+      "user_image": "https://i.ibb.co.com/WfrPPGz/icons8-user-50.png",
+      "flag_image": "https://i.ibb.co.com/N1YzYsr/icons8-black-flag-48.png",
+      "rating": 4.8,
+      "price": 1500000
+    }
+
+
+
+  ]
+  
